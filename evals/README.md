@@ -12,3 +12,7 @@
 - [Summer Tomato v0.4 参考校准六格验收](results-summer-tomato-v0.4-generation.md)：记录本轮质量标准、唯一产物及 D/A/B/C/E/L 结果。
 
 每次结果需记录日期、对象及版本、输入、步骤、预期、实际、状态、证据和限制。模拟符合预期不等于真实调用通过；禁止将未生成图像的用例标为视觉验收通过。
+
+- [分阶段制作流程检查](results-staged-workflow.md)：记录制作路径和 A/B 授权边界的静态检查。
+
+- [情人节天鹅阶段归档](../projects/valentine-swan/archive.md)：A/B、配色修订和优化版用户通过，历史自评独立保留。
